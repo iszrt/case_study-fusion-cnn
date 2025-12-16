@@ -1,7 +1,7 @@
 # CIFAR-10 Image Classification using CNN Feature Fusion
 
 ## Overview
-This project is a **Mini Case Study for Graphics and Visual Computing**, focusing on image classification using deep learning.
+This project is focusing on image classification using deep learning.
 
 We propose a **feature fusion architecture** that combines two pretrained CNN backbones—**ResNet18** and **MobileNetV2**—to improve classification performance on the CIFAR-10 dataset. The goal is to demonstrate how fusing complementary feature representations can lead to more robust visual understanding compared to single-model baselines.
 
