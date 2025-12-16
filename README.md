@@ -61,4 +61,4 @@ The project notebook includes the following visualizations:
 ```text
 ├── notebook.ipynb        # End-to-end training and evaluation
 ├── README.md             # Project description
-└── data/                 # CIFAR-10 dataset (auto-downloaded)
+CIFAR-10 dataset (auto-downloaded)
