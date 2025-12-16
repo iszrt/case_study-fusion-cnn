@@ -59,6 +59,6 @@ The project notebook includes the following visualizations:
 ## Repository Contents
 
 ```text
-├── notebook.ipynb        # End-to-end training and evaluation
-├── README.md             # Project description
+├── cifar10_resnet18-mobilenetv2.ipynb        # End-to-end training and evaluation
+├── README.md                                 # Project description
 CIFAR-10 dataset (auto-downloaded)
